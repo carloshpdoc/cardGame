@@ -1,0 +1,9 @@
+.vs
+obj
+Temp
+
+Library/
+
+hackday-ctg\.sln
+
+Assembly-CSharp\.csproj
